@@ -8,7 +8,7 @@ The goal was to design and implement a complete frequency converter for asynchro
 
 Power Stage Design – dimensioning of rectifier, DC link, and inverter section
 
-Control Algorithms – PWM generation, speed and torque control
+Control Algorithms – PWM generation, Scalar V/f control
 
 System Simulation – MATLAB/Simulink models for power electronics and motor dynamics
 
