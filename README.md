@@ -30,7 +30,7 @@ Oscilloscope & Measurement Tools – signal and harmonic analysis
 
 📊 Results
 
-Achieved SCALAR U/F stable motor control from 0–70 Hz
+Achieved SCALAR V/F stable motor control from 0–70 Hz
 
 Verified power stage design through thermal and efficiency measurements
 
