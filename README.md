@@ -10,7 +10,7 @@ Power Stage Design – dimensioning of rectifier, DC link, and inverter section
 
 Control Algorithms – PWM generation, Scalar V/f control
 
-System Simulation – MATLAB/Simulink models for power electronics and motor dynamics
+System Simulation – MATLAB/Simulink models for power electronics
 
 Hardware Prototyping – schematic design and PCB layout
 
@@ -34,4 +34,4 @@ Achieved SCALAR V/F stable motor control from 0–70 Hz
 
 Verified power stage design through thermal and efficiency measurements
 
-Implemented protection features (overcurrent, undervoltage)
+Implemented protection features (overcurrent, undervoltage, overvoltage)
